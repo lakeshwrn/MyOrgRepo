@@ -15,7 +15,7 @@ public class AccountHandler {
                 c.Priority='High';	
             }
 		}
-       Update caseList;
+       Update caseList
    
     }
 
