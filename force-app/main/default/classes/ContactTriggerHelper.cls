@@ -6,7 +6,7 @@ public class ContactTriggerHelper {
 			if(con.AccountId != null){
 				Account accrec = new Account();
                 accrec.id=con.AccountId;
-                accrec.rating = 'Hot';
+                accrec.rating = 'Cold';
                 accnewlist.add(accrec);
 			}
             
