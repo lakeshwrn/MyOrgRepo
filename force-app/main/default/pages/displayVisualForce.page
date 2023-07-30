@@ -1,0 +1,7 @@
+<apex:page >
+    <P>Paragraph outside the apex form,also within the apex page</P>
+    <apex:form >
+        <P>Paragraph inside the apex form</P>
+        <apex:commandButton action="{!Save}" value="Save Button"/>
+    </apex:form>
+</apex:page>
